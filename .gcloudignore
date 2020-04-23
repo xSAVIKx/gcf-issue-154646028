@@ -322,3 +322,6 @@ tests/
 build.cmd
 build.sh
 pyproject.toml
+
+Pipfile
+Pipfile.lock
