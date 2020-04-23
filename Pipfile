@@ -7,7 +7,6 @@ verify_ssl = true
 
 [packages]
 flask = "*"
-child-project = {editable = true,path = "./child-project"}
 
 [requires]
 python_version = "3.7"

@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "033b21e9bb81fc5f628196a8c897058ce82727700019c6107a5d597aed5b3cf3"
+            "sha256": "a82b674d67d29678775ff6b773de1686a9593749ec14483b0d8e05131b662286"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,10 +16,6 @@
         ]
     },
     "default": {
-        "child-project": {
-            "editable": true,
-            "path": "./child-project"
-        },
         "click": {
             "hashes": [
                 "sha256:8a18b4ea89d8820c5d0c7da8a64b2c324b4dabb695804dbfea19b9be9d88c0cc",
